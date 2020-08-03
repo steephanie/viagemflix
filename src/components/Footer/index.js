@@ -14,6 +14,9 @@ function Footer() {
           Imersão React da Alura
         </a>
       </p>
+      <p> Por: {' '}
+        <a href="https://github.com/steephanie">Stephanie Nascimento</a>
+      </p>
     </FooterBase>
   );
 }
